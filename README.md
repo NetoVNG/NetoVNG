@@ -1,5 +1,4 @@
 # Olá New Wolrd, eu sou Neto! (:
-<div
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=slateorange)
 
 
