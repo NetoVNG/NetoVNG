@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá New Wolrd, eu sou Neto! (:
+<div
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=slateorange)
 
-<!--
-**NetoVNG/NetoVNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre:
+
+- Voltando para área de tecnologia, estudente de Programação Front End, Data Science e Inovação & Gestão
+- Vamos se ajudar na matrix!
+
+
+- [Certificates](https://unibb.alura.com.br/user/pvasconcellos/fullCertificate/f4733dfb04fab68fa8aa051061f7f623) 👨🏼‍🏫 - These are my qualifications
