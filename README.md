@@ -1,4 +1,4 @@
-## Olá, New World Eu sou o Neto!
+## Olá, New World Eu sou o Neto!<img align="right" alt="ViradoNaGota" height="30" width="30" src="https://yt3.ggpht.com/ytc/AKedOLQ0O81g0H6Cz4rh4dk-gKE0RV6NlBRUt4a5GHHJ=s900-c-k-c0x00ffffff-no-rj"/>
  <div>
   <a href="https://github.com/NetoVNG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -12,15 +12,12 @@
 <img align="center" alt="gitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
  </div>
- 
-<div> 
+ <div> 
  <a href="https://instagram.com/netovsagaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/8qCFDRSsQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ppvasconcellosneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/neto-vasconcellos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.reddit.com/user/viradonagota" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
 </div>
 
  
