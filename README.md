@@ -1,6 +1,6 @@
-# Olá New Wolrd, eu sou Neto! (:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=slateorange)
-
- 
-- Voltando para área de tecnologia, estudante de Programação Front End, Data Science e Inovação & Gestão
--- [Certificates](https://unibb.alura.com.br/user/pvasconcellos/fullCertificate/f4733dfb04fab68fa8aa051061f7f623) 👨🏼‍🏫 - These are my qualifications
+## Olá, New World Eu sou o Neto!
+ <div>
+  <a href="https://github.com/NetoVNG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
