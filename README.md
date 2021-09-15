@@ -1,4 +1,4 @@
-## 🗺 Olá, new world Eu sou o Neto!🐜
+## 🗺 Olá, new world, sou o Neto!
 ###### Hello new world I'm Neto!
 
 ## Fale comigo aqui ☎: 
