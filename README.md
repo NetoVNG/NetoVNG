@@ -1,3 +1,5 @@
+👨‍🎓 Sou um aprendiz curioso que está animado para explorar o vasto mundo da ciência de dados.
+
 ![NetosVSagaz GitHubstats](https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&langs_count=8)](https://github.com/NetoVNG/github-readme-stats)
 
