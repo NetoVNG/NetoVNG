@@ -1,4 +1,4 @@
-<h1 align="center">🌊 VNG Produção Digital</h1>
+<h1 align="center"> 💧 VNG Produção Digital 💧</h1>
 
 <p align="center">
   <img src="https://github.com/NetoVNG/NetoVNG/blob/main/vng-logo.png" width="120" alt="Logo VNG">
@@ -6,7 +6,7 @@
 
 <p align="center">
   Arte, IA e inteligência coletiva em um só fluxo criativo ✨<br/>
-  Criado por <strong>Neto Vasconcellos</strong> | Bancário criativo, Dev em formação e artista nordestino
+  Criado por <strong>Neto VNG </strong> | Bancário criativo, Dev em formação e artista nordestino
 </p>
 
 ---
@@ -23,18 +23,6 @@ Acredito que a organização da cultura digital é um ato de resistência.
 - 📚 Engenharia de Prompts e educação popular
 - 🛠️ Integrações com Notion, Discord e automações web
 - 🎨 Arte em Nanquim, Clay e cerâmica fria
-
----
-
-## 🧪 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [vng-producao-digital](https://github.com/NetoVNG/vng-producao-digital) | Central de produção com IA + Arte + Comunidade | Python, LangChain, RAG |
-| [comuna-da-gota-livre](#) | Comunidade criativa para artistas populares | Discord, Notion, Git |
-| [vng-site](#) | Site oficial com repositório artístico e cultural | HTML, CSS, GitHub Pages |
-| [prompt-engine](#) | Ferramenta para estruturar prompts de IA | Markdown, LangChain, IA |
-
 ---
 
 ## 💡 Tecnologias e Ferramentas
@@ -49,7 +37,6 @@ Acredito que a organização da cultura digital é um ato de resistência.
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -58,6 +45,19 @@ Acredito que a organização da cultura digital é um ato de resistência.
 </p>
 
 ---
+## 🧪 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [vng-producao-digital](https://github.com/NetoVNG/vng-producao-digital) | Central de produção com IA + Arte + Comunidade | Python, LangChain, RAG |
+| [comuna-da-gota-livre](#) | Comunidade criativa para artistas populares | Discord, Notion, Git |
+| [vng-site](#) | Site oficial com repositório artístico e cultural | HTML, CSS, GitHub Pages |
+| [prompt-engine](#) | Ferramenta para estruturar prompts de IA | Markdown, LangChain, IA |
+
+
+---
+
+
 
 ## 📬 Contato e Links
 
