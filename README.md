@@ -1,7 +1,9 @@
-<h1 align="center"> VNG Produção Digital</h1>
+<h1 align="center">🌊 VNG Produção Digital</h1>
+
 <p align="center">
-  <img src="https://1drv.ms/i/c/ede3f67b325b13d4/ESflVKCeSzlMukNvKkuROVIBMOR1HF6ATvVvohmyVR9JgQ?e=5JdPhA" width="120" alt="Logo VNG">
+  <img src="https://github.com/NetoVNG/NetoVNG/blob/main/vng-logo.png" width="120" alt="Logo VNG">
 </p>
+
 <p align="center">
   Arte, IA e inteligência coletiva em um só fluxo criativo ✨<br/>
   Criado por <strong>Neto Vasconcellos</strong> | Bancário criativo, Dev em formação e artista nordestino
