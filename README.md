@@ -1,71 +1,86 @@
-<h1 align="center"> 💧 VNG Produção Digital 💧</h1>
+# 💧 Neto VNG | Sagaz.lab
 
-<p align="center">
-  <img src="https://github.com/NetoVNG/NetoVNG/blob/main/vng-logo.png" width="120" alt="Logo VNG">
-</p>
+**Código, IA e cultura digital em estado de laboratório.**
 
-<p align="center">
-  Arte, IA e inteligência coletiva em um só fluxo criativo ✨<br/>
-  Criado por <strong>Neto VNG </strong> | Bancário criativo, Dev em formação e artista nordestino
-</p>
+Sou **Neto VNG**, criador do **Sagaz.lab** — um laboratório de experimentação onde tecnologia, inteligência artificial e produção cultural se encontram para virar **sistemas vivos**, produtos funcionais e narrativas coerentes.
+
+Meu trabalho nasce do processo, não do hype.  
+Observar, estruturar, testar, iterar e executar.
 
 ---
 
-## 👨🏾‍💻 Sobre mim
+## 🧠 Sobre mim
 
-Sou Neto, fundador do projeto **VNG Produção Digital**.
+Atuo como **desenvolvedor, estrategista digital e criador de ferramentas**, com foco em transformar ideias complexas em soluções práticas, escaláveis e documentadas.
 
-Me movo entre códigos, pincéis e comunidades.  
-Transformo ideias em sistemas vivos de produção e expressão.  
-Acredito que a organização da cultura digital é um ato de resistência.
+Transito entre o **mundo institucional** (organização, governança, sistemas, experiência bancária) e o **mundo criativo** (arte, narrativa, cultura popular e educação aberta).  
+Essa interseção define minha forma de construir: rigor técnico sem perder sensibilidade humana.
 
-- 🔧 Criação de sistemas RAG (LangChain + OpenAI)
-- 📚 Engenharia de Prompts e educação popular
-- 🛠️ Integrações com Notion, Discord e automações web
-- 🎨 Arte em Nanquim, Clay e cerâmica fria
----
-
-## 💡 Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat)
-![Notion](https://img.shields.io/badge/-Notion-333?style=flat&logo=notion)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
+No Sagaz.lab, trabalho como um **artesão de sistemas**:
+cada projeto é tratado como um organismo — com propósito, lógica interna e impacto real.
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=gruvbox&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&langs_count=7&theme=gruvbox" />
-</p>
+## 🔬 O que eu desenvolvo
+
+- 🧩 **Ferramentas baseadas em IA**
+  - RAG (LangChain + OpenAI)
+  - Agentes e automações
+  - Pipelines de conhecimento e documentação viva
+
+- 🚀 **Produtos digitais e micro-SaaS**
+  - Educação, produtividade e cultura
+  - MVPs rápidos com foco em execução real
+
+- 🗂️ **Organização do saber**
+  - Obsidian, GitHub, Notion
+  - Sistemas de segunda mente e repositórios vivos
+
+- 🎨 **Narrativas digitais**
+  - Tecnologia + território + identidade
+  - Cultura digital como processo, não vitrine
 
 ---
-## 🧪 Projetos em Destaque
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+---
+
+## 🌱 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [vng-producao-digital](https://github.com/NetoVNG/vng-producao-digital) | Central de produção com IA + Arte + Comunidade | Python, LangChain, RAG |
-| [comuna-da-gota-livre](#) | Comunidade criativa para artistas populares | Discord, Notion, Git |
-| [vng-site](#) | Site oficial com repositório artístico e cultural | HTML, CSS, GitHub Pages |
-| [prompt-engine](#) | Ferramenta para estruturar prompts de IA | Markdown, LangChain, IA |
-
-
----
-
-
-
-## 📬 Contato e Links
-
-- 🌐 [viradonagota.com](https://viradonagota.com)
-- 📷 [Instagram: @netovng](https://instagram.com/netovng)
-- 📧 netovng@gmail.com
+|-------|-----------|-------------|
+| **vng-producao-digital** | Central de produção com IA + arte + comunidade | Python, LangChain, RAG |
+| **comuna-da-gota-livre** | Comunidade criativa para artistas populares | Discord, Notion, Git |
+| **vng-site** | Site artístico e cultural | HTML, CSS, GitHub Pages |
+| **prompt-engine** | Estruturação e engenharia de prompts | Markdown, IA |
 
 ---
 
-> _“A resistência começa na organização do que importa. A gota demonstra resiliência e seu acúmulo, poder.”_  
-> — VnG PrG 864
+## 📊 GitHub em números
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Contato e Links
+
+- 🌐 Site: https://viradonagota.com  
+- 📸 Instagram: [@netovng](https://instagram.com/netovng)  
+- 📧 Email: netovng@gmail.com  
+
+---
+
+> *“A resistência começa na organização do que importa.  
+> A gota demonstra resiliência e seu acúmulo, poder.”*  
+> — VNG
