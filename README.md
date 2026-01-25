@@ -1,86 +1,40 @@
-# 💧 Neto VNG | Sagaz.lab
+# Olá, eu sou o Neto! 👋
 
-**Código, IA e cultura digital em estado de laboratório.**
-
-Sou **Neto VNG**, criador do **Sagaz.lab** — um laboratório de experimentação onde tecnologia, inteligência artificial e produção cultural se encontram para virar **sistemas vivos**, produtos funcionais e narrativas coerentes.
-
-Meu trabalho nasce do processo, não do hype.  
-Observar, estruturar, testar, iterar e executar.
+Sou um desenvolvedor focado em construir soluções inteligentes que unem **Inteligência Artificial**, **Automação de Dados** e **Eficiência Operacional**. Atualmente, estou focado em criar ferramentas que transformam dados brutos em conhecimento acionável.
 
 ---
 
-## 🧠 Sobre mim
+### 🛠️ No que estou trabalhando hoje:
 
-Atuo como **desenvolvedor, estrategista digital e criador de ferramentas**, com foco em transformar ideias complexas em soluções práticas, escaláveis e documentadas.
-
-Transito entre o **mundo institucional** (organização, governança, sistemas, experiência bancária) e o **mundo criativo** (arte, narrativa, cultura popular e educação aberta).  
-Essa interseção define minha forma de construir: rigor técnico sem perder sensibilidade humana.
-
-No Sagaz.lab, trabalho como um **artesão de sistemas**:
-cada projeto é tratado como um organismo — com propósito, lógica interna e impacto real.
+- 🎓 **BB Prep AI**: Uma plataforma inteligente de preparação para concursos. Estou desenvolvendo pipelines complexos de scraping (PCI Concursos), processamento de PDFs via OCR e integração com **Supabase** para criar um banco de questões estruturado.
+- 📊 **Lean Six Sigma AI Dashboard**: Desenvolvimento de aplicações desktop/web utilizando **Streamlit** para otimização de processos industriais e de negócios, integrando modelos de IA para análise preditiva.
+- 🎥 **Kengi Engine/Analysis**: Exploração de análise audiovisual, manipulando processamento de áudio (.ogg), visão computacional e organização sistemática de mídia para aplicações interativas.
+- 🤖 **Automação de Workflow**: Scripts especialistas em Python para raspagem de dados, limpeza e migração de bases de dados em larga escala.
 
 ---
 
-## 🔬 O que eu desenvolvo
+### 🚀 Tecnologias & Ferramentas:
 
-- 🧩 **Ferramentas baseadas em IA**
-  - RAG (LangChain + OpenAI)
-  - Agentes e automações
-  - Pipelines de conhecimento e documentação viva
-
-- 🚀 **Produtos digitais e micro-SaaS**
-  - Educação, produtividade e cultura
-  - MVPs rápidos com foco em execução real
-
-- 🗂️ **Organização do saber**
-  - Obsidian, GitHub, Notion
-  - Sistemas de segunda mente e repositórios vivos
-
-- 🎨 **Narrativas digitais**
-  - Tecnologia + território + identidade
-  - Cultura digital como processo, não vitrine
+- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks/UI:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- **Backend & Cloud:** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Especialidades:** LLM Integration, Web Scraping (Selenium/BS4), File Parsing (PyMuPDF), Data Engineering.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 📈 Estatísticas do GitHub:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
-## 🌱 Projetos em destaque
+### 📫 Como me encontrar:
 
-| Projeto | Descrição | Tecnologias |
-|-------|-----------|-------------|
-| **vng-producao-digital** | Central de produção com IA + arte + comunidade | Python, LangChain, RAG |
-| **comuna-da-gota-livre** | Comunidade criativa para artistas populares | Discord, Notion, Git |
-| **vng-site** | Site artístico e cultural | HTML, CSS, GitHub Pages |
-| **prompt-engine** | Estruturação e engenharia de prompts | Markdown, IA |
+- **GitHub:** [NetoVNG](https://github.com/NetoVNG)
+- **Foco Atual:** Especialização em Engenharia de Prompt e Aplicações de IA Generativa.
 
 ---
-
-## 📊 GitHub em números
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Contato e Links
-
-- 🌐 Site: https://viradonagota.com  
-- 📸 Instagram: [@netovng](https://instagram.com/netovng)  
-- 📧 Email: netovng@gmail.com  
-
----
-
-> *“A resistência começa na organização do que importa.  
-> A gota demonstra resiliência e seu acúmulo, poder.”*  
-> — VNG
+*"Automatizando o presente para construir o futuro."*
