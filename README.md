@@ -1,6 +1,11 @@
 # Olá, eu sou o Neto! 👋
 
-Sou um desenvolvedor focado em construir soluções inteligentes que unem **Inteligência Artificial**, **Automação de Dados** e **Eficiência Operacional**. Atualmente, estou focado em criar ferramentas que transformam dados brutos em conhecimento acionável.
+Sou um desenvolvedor focado em construir soluções inteligentes que unem **Inteligência Artificial**, **Automação de Dados** e **Eficiência Operacional**. Atualmente, lidero iniciativas na **[Sagaz Lab](https://sagazlab.io)**, transformando complexidade tecnológica em inteligência operacional.
+
+---
+
+### 🧪 Sagaz Lab
+A **Sagaz Lab** é o meu hub de inovação focado em **Automação Inteligente** e **Engenharia de Dados**. Aqui, desenvolvo ferramentas que escalam processos e transformam dados brutos em conhecimento acionável para negócios e educação.
 
 ---
 
@@ -18,11 +23,10 @@ Sou um desenvolvedor focado em construir soluções inteligentes que unem **Inte
 - **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - **Frameworks/UI:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - **Backend & Cloud:** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Especialidades:** LLM Integration, Web Scraping (Selenium/BS4), File Parsing (PyMuPDF), Data Engineering.
 
 ---
 
-### 📈 Estatísticas do GitHub:
+### 📈 Estatísticas:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
@@ -33,7 +37,8 @@ Sou um desenvolvedor focado em construir soluções inteligentes que unem **Inte
 
 ### 📫 Como me encontrar:
 
-- **GitHub:** [NetoVNG](https://github.com/NetoVNG)
+- **Site Oficial:** [sagazlab.io](https://sagazlab.io)
+- **LinkedIn:** [NetoVNG](https://www.linkedin.com/in/netovng/)
 - **Foco Atual:** Especialização em Engenharia de Prompt e Aplicações de IA Generativa.
 
 ---
