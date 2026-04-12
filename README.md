@@ -41,6 +41,18 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </p>
 
+
+
+---
+
+## Certificações
+
+[![DataViz Power BI — Visionário](https://img.shields.io/badge/DataViz_Power_BI-Visionário-FFD700?style=flat&logo=powerbi&logoColor=black)](https://www.brasilopenbadge.com.br/pages/badge/5d1b822c9abbe0ce96d20d121252bfea)
+[![Inovação BB 2025](https://img.shields.io/badge/Inovação_BB-2025-003F87?style=flat&logo=bancodobrasil&logoColor=FFD700)](https://www.brasilopenbadge.com.br/pages/badge/d3e84e77c4f0e2ac31232d655b1274a6)
+[![Inovação BB 2024](https://img.shields.io/badge/Inovação_BB-2024-003F87?style=flat&logo=bancodobrasil&logoColor=FFD700)](https://www.brasilopenbadge.com.br/pages/badge/5fe2c9c03012cc76cae44b276fd8cdad)
+[![Realização Destaque BB](https://img.shields.io/badge/Realização_Destaque-BB_2024-003F87?style=flat&logo=bancodobrasil&logoColor=FFD700)](https://www.brasilopenbadge.com.br/pages/badge/5d6189704952318cfc85b4413fead39a)
+[![FM2S Certificado](https://img.shields.io/badge/FM2S-Certificado-1A73E8?style=flat&logo=googlescholar&logoColor=white)](https://ead.fm2s.com.br/verify/3a8540e35d80d22e662392d191105207975b5719)
+
 ---
 
 ## Contato
