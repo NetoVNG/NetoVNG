@@ -38,8 +38,8 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 ## GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=NetoVNG&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoVNG&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400" />
 </p>
 
 
