@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NetoVNG-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/netovng/)
 [![Site](https://img.shields.io/badge/Site-sagazlab.io-0d63f4?style=flat&logo=google-chrome&logoColor=white)](https://sagazlab.io)
+[![Banco do Brasil](https://img.shields.io/badge/Banco_do_Brasil-003F87?style=flat&logo=bancodobrasil&logoColor=FFD700)](https://www.bb.com.br)
 [![Localização](https://img.shields.io/badge/Curitiba-PR%20%E2%80%94%20Brasil-green?style=flat)](https://github.com/NetoVNG)
 
 Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a presença digital para pequenas empresas. Fundador do **Sagaz Lab**, trabalho na interseção entre automação, produto e impacto.
