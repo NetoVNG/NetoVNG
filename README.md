@@ -17,6 +17,7 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 | [**BBPrepAI**](https://bbprepai.digital) | Plataforma adaptativa de prep para concursos bancários | React · Vite · Supabase · Python |
 | **Sagaz Sigma** | SaaS de inteligência operacional Lean Six Sigma com IA | Next.js · FastAPI · Supabase · Docker |
 | **Mottor** | Análise tática e performance esportiva com IA | React · FastAPI · LangChain |
+| [**Presença Digital**](https://presenca.sagazlab.io) | Templates prontos de presença digital para PMEs | HTML/CSS/JS · Nginx |
 
 ---
 
