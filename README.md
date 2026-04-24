@@ -22,6 +22,7 @@ Automações com n8n + IA para PMEs, produto **Presença Digital** com 3 camadas
 | [**Sagaz Lab**](https://sagazlab.io) | Estúdio de presença digital e automação para PMEs | HTML/CSS/JS · n8n · MariaDB · Nginx |
 | [**Presença Digital**](https://presenca.sagazlab.io) | Produto: site + Google + redes + automações para PMEs | HTML/CSS/JS · Nginx |
 | [**kengbraga.com**](https://kengbraga.com) | Site de autoridade para coach executivo | HTML/CSS/JS · Nginx |
+| [**Don Maths**](https://sagazlab.io/donmaths/) | Site oficial do músico e DJ Don Maths — trilíngue PT/EN/ES | HTML/CSS/JS · Nginx |
 | **ACRICA Digital** | Gestão digital para coletivo cultural — pro bono | n8n · MariaDB · HTML/CSS/JS |
 | **Virado na Gota** | Transformação digital para ONGs invisíveis | Em construção — lançamento jul/2026 |
 
