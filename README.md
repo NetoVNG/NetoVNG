@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="antifa.svg" alt="Antifaschistische Aktion" width="96" />
+
 
 # Neto Vasconcellos
 
