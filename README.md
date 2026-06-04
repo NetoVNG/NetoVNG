@@ -27,6 +27,7 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 | [**Presença Digital**](https://presenca.sagazlab.io) | Site + Google + redes + automações para PMEs | HTML/CSS/JS · Nginx |
 | [**kengbraga.com**](https://kengbraga.com) | Site de autoridade para coach executivo | HTML/CSS/JS · Nginx |
 | [**Don Maths**](https://sagazlab.io/donmaths/) | Site oficial do músico e DJ — trilíngue PT/EN/ES | HTML/CSS/JS · Nginx |
+| [**Zuppa Agency**](https://zuppa.agency) | Site + captação de leads automatizada para agência criativa no Rio | HTML/CSS/JS · n8n · MariaDB · Nginx |
 | **ACRICA Digital** | Gestão digital para coletivo cultural — pro bono | n8n · MariaDB · HTML/CSS/JS |
 | **Virado na Gota** | Transformação digital para ONGs invisíveis | Em construção · jul/2026 |
 
