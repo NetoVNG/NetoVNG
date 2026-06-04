@@ -10,6 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=linkedin&logoColor=DC2626)](https://www.linkedin.com/in/netovng/)
 [![Site](https://img.shields.io/badge/sagazlab.io-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=DC2626)](https://sagazlab.io)
+[![Presença](https://img.shields.io/badge/presença.sagazlab.io-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=DC2626)](https://presenca.sagazlab.io)
+[![Zuppa](https://img.shields.io/badge/zuppa.agency-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=DC2626)](https://zuppa.agency)
 
 `Curitiba · PR · Brasil`
 
