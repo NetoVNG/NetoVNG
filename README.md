@@ -8,8 +8,8 @@
 
 *Pessimismo da razão, otimismo da vontade*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netovng/)
-[![Site](https://img.shields.io/badge/sagazlab.io-cc0000?style=flat-square&logo=google-chrome&logoColor=white)](https://sagazlab.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=linkedin&logoColor=DC2626)](https://www.linkedin.com/in/netovng/)
+[![Site](https://img.shields.io/badge/sagazlab.io-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=DC2626)](https://sagazlab.io)
 
 `Curitiba · PR · Brasil`
 
@@ -25,7 +25,6 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 |---|---|---|
 | [**Sagaz Lab**](https://sagazlab.io) | Estúdio de presença digital e automação para PMEs | HTML/CSS/JS · n8n · MariaDB · Nginx |
 | [**Presença Digital**](https://presenca.sagazlab.io) | Site + Google + redes + automações para PMEs | HTML/CSS/JS · Nginx |
-| [**kengbraga.com**](https://kengbraga.com) | Site de autoridade para coach executivo | HTML/CSS/JS · Nginx |
 | [**Don Maths**](https://sagazlab.io/donmaths/) | Site oficial do músico e DJ — trilíngue PT/EN/ES | HTML/CSS/JS · Nginx |
 | [**Zuppa Agency**](https://zuppa.agency) | Site + captação de leads automatizada para agência criativa no Rio | HTML/CSS/JS · n8n · MariaDB · Nginx |
 | **ACRICA Digital** | Gestão digital para coletivo cultural — pro bono | n8n · MariaDB · HTML/CSS/JS |
@@ -33,25 +32,25 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-cc0000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-cc0000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-cc0000?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-cc0000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-cc0000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-cc0000?style=flat-square&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-cc0000?style=flat-square&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-cc0000?style=flat-square&logo=supabase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-cc0000?style=flat-square&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-cc0000?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-cc0000?style=flat-square&logo=nginx&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-cc0000?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=python&logoColor=DC2626)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=javascript&logoColor=DC2626)
+![TypeScript](https://img.shields.io/badge/TypeScript-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=typescript&logoColor=DC2626)
+![React](https://img.shields.io/badge/React-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=react&logoColor=DC2626)
+![Next.js](https://img.shields.io/badge/Next.js-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=nextdotjs&logoColor=DC2626)
+![FastAPI](https://img.shields.io/badge/FastAPI-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=fastapi&logoColor=DC2626)
+![n8n](https://img.shields.io/badge/n8n-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=n8n&logoColor=DC2626)
+![Supabase](https://img.shields.io/badge/Supabase-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=supabase&logoColor=DC2626)
+![MariaDB](https://img.shields.io/badge/MariaDB-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=mariadb&logoColor=DC2626)
+![Docker](https://img.shields.io/badge/Docker-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=docker&logoColor=DC2626)
+![Nginx](https://img.shields.io/badge/Nginx-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=nginx&logoColor=DC2626)
+![Claude](https://img.shields.io/badge/Claude_API-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=anthropic&logoColor=DC2626)
 
 ## Certificações
 
-[![Green Belt LSS — FM2S](https://img.shields.io/badge/Green_Belt_LSS-FM2S-cc0000?style=flat-square&labelColor=1a1a1a)](https://ead.fm2s.com.br/verify/3a8540e35d80d22e662392d191105207975b5719)
-[![DataViz Power BI](https://img.shields.io/badge/DataViz_Power_BI-Visionário-cc0000?style=flat-square&labelColor=1a1a1a)](https://www.brasilopenbadge.com.br/pages/badge/5d1b822c9abbe0ce96d20d121252bfea)
-[![Inovação BB 2025](https://img.shields.io/badge/Inovação_BB-2025-cc0000?style=flat-square&labelColor=1a1a1a)](https://www.brasilopenbadge.com.br/pages/badge/d3e84e77c4f0e2ac31232d655b1274a6)
-[![Inovação BB 2024](https://img.shields.io/badge/Inovação_BB-2024-cc0000?style=flat-square&labelColor=1a1a1a)](https://www.brasilopenbadge.com.br/pages/badge/5fe2c9c03012cc76cae44b276fd8cdad)
+[![Green Belt LSS — FM2S](https://img.shields.io/badge/Green_Belt_LSS-FM2S-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=googlescholar&logoColor=DC2626)](https://ead.fm2s.com.br/verify/3a8540e35d80d22e662392d191105207975b5719)
+[![DataViz Power BI](https://img.shields.io/badge/DataViz_Power_BI-Visionário-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=powerbi&logoColor=DC2626)](https://www.brasilopenbadge.com.br/pages/badge/5d1b822c9abbe0ce96d20d121252bfea)
+[![Inovação BB 2025](https://img.shields.io/badge/Inovação_BB-2025-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=bancodobrasil&logoColor=DC2626)](https://www.brasilopenbadge.com.br/pages/badge/d3e84e77c4f0e2ac31232d655b1274a6)
+[![Inovação BB 2024](https://img.shields.io/badge/Inovação_BB-2024-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=bancodobrasil&logoColor=DC2626)](https://www.brasilopenbadge.com.br/pages/badge/5fe2c9c03012cc76cae44b276fd8cdad)
 
 ---
 
