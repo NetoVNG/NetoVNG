@@ -49,6 +49,7 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 
 ## Certificações
 
+[![Black Belt LSS — FM2S](https://img.shields.io/badge/Black_Belt_LSS-FM2S-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=googlescholar&logoColor=DC2626)](https://ead.fm2s.com.br/verify/735814260d10d3f469091e49b6c8df9447198dde)
 [![Green Belt LSS — FM2S](https://img.shields.io/badge/Green_Belt_LSS-FM2S-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=googlescholar&logoColor=DC2626)](https://ead.fm2s.com.br/verify/3a8540e35d80d22e662392d191105207975b5719)
 [![DataViz Power BI](https://img.shields.io/badge/DataViz_Power_BI-Visionário-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=powerbi&logoColor=DC2626)](https://www.brasilopenbadge.com.br/pages/badge/5d1b822c9abbe0ce96d20d121252bfea)
 [![Inovação BB 2025](https://img.shields.io/badge/Inovação_BB-2025-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=bancodobrasil&logoColor=DC2626)](https://www.brasilopenbadge.com.br/pages/badge/d3e84e77c4f0e2ac31232d655b1274a6)
