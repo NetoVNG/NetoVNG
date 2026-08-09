@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Neto Vasconcellos — Pessimismo da razão, otimismo da vontade · A prática como critério da verdade" width="100%">
+<img src="assets/hero/banner-light.png" alt="Neto Vasconcellos — Pessimismo da razão, otimismo da vontade · A prática como critério da verdade" width="100%">
 
 # Neto Vasconcellos
 
