@@ -4,7 +4,7 @@
      ───────────────────────────────────────────────────────────── -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/banner.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero/banner-v2.png">
   <img src="assets/hero/banner-light.png" alt="Pessimismo da razão, otimismo da vontade — Neto Vasconcellos, Sagaz Lab" width="100%">
 </picture>
 
