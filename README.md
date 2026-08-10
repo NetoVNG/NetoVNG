@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero/banner.png">
-  <img src="assets/hero/banner-light.png" alt="Neto Vasconcellos — Sagaz Lab · Pessimismo da razão, otimismo da vontade" width="100%">
+  <img src="assets/hero/banner.png" alt="Neto Vasconcellos — Sagaz Lab · Pessimismo da razão, otimismo da vontade" width="100%">
 </picture>
 
 # Neto Vasconcellos
