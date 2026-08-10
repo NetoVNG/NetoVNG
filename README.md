@@ -22,7 +22,7 @@
 <sub>*Practice as the criterion of truth · building AI systems that solve real problems*</sub>
 
 [![sagazlab.io](https://img.shields.io/badge/sagazlab.io-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=E8431F)](https://sagazlab.io)
-[![presença.sagazlab.io](https://img.shields.io/badge/presença.sagazlab.io_·_no_ar-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=E8431F)](https://presenca.sagazlab.io)
+[![presença](https://img.shields.io/badge/presença-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=google-chrome&logoColor=E8431F)](https://presenca.sagazlab.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=linkedin&logoColor=E8431F)](https://linkedin.com/in/netovng)
 [![contato@sagazlab.io](https://img.shields.io/badge/contato@sagazlab.io-F2F2F2?style=flat-square&labelColor=F2F2F2&logo=maildotru&logoColor=E8431F)](mailto:contato@sagazlab.io)
 &nbsp;`Curitiba · PR · Brasil`
