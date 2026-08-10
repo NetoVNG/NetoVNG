@@ -100,10 +100,7 @@ Consultoria acadêmica — redesign em andamento.
 <div align="center">
 
 <a href="https://github.com/NetoVNG">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NetoVNG&show_icons=true&hide_border=true&include_all_commits=true&title_color=E8431F&icon_color=E8431F&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de GitHub de NetoVNG">
-</a>
-<a href="https://github.com/NetoVNG">
-  <img height="165" src="https://streak-stats.demolab.com/?user=NetoVNG&hide_border=true&background=0d1117&stroke=30363d&ring=E8431F&fire=E8431F&currStreakLabel=E8431F&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Sequência de contribuições de NetoVNG">
+  <img height="180" src="https://streak-stats.demolab.com/?user=NetoVNG&hide_border=true&background=0d1117&stroke=30363d&ring=E8431F&fire=E8431F&currStreakLabel=E8431F&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Sequência de contribuições de NetoVNG">
 </a>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NetoVNG&bg_color=0d1117&color=e6edf3&line=E8431F&point=E8431F&area_color=E8431F&area=true&hide_border=true" alt="Gráfico de atividade de NetoVNG">
