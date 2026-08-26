@@ -1,8 +1,11 @@
 <!-- ─────────────────────────────────────────────────────────────
      NETO VASCONCELLOS · README de perfil
      Layout inspirado no mockup de perfil (agosto/2026), convertido
-     para markdown. Números "vivos" (repos, seguidores, contribuições)
-     são widgets dinâmicos — nada de valor chumbado à mão.
+     para markdown. Números "vivos" (seguidores, repos, último commit)
+     são badges do shields.io — nada de valor chumbado à mão.
+     Os widgets antigos saíram em 26/08/2026: streak-stats.demolab.com
+     parou de responder e github-readme-activity-graph.vercel.app
+     devolve 402 DEPLOYMENT_DISABLED. Os dois serviços foram desligados.
      Banner em assets/hero/ · gravuras em assets/animals/
      ───────────────────────────────────────────────────────────── -->
 
@@ -99,11 +102,11 @@ Consultoria acadêmica — redesign em andamento.
 
 <div align="center">
 
-<a href="https://github.com/NetoVNG">
-  <img height="180" src="https://streak-stats.demolab.com/?user=NetoVNG&hide_border=true&background=0d1117&stroke=30363d&ring=E8431F&fire=E8431F&currStreakLabel=E8431F&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Sequência de contribuições de NetoVNG">
-</a>
+[![seguidores](https://img.shields.io/github/followers/NetoVNG?style=flat-square&labelColor=F2F2F2&color=F2F2F2&logo=github&logoColor=E8431F&label=seguidores)](https://github.com/NetoVNG?tab=followers)
+[![repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNetoVNG&query=%24.public_repos&style=flat-square&labelColor=F2F2F2&color=F2F2F2&logo=github&logoColor=E8431F&label=repos%20p%C3%BAblicos)](https://github.com/NetoVNG?tab=repositories)
+[![último commit](https://img.shields.io/github/last-commit/NetoVNG/NetoVNG?style=flat-square&labelColor=F2F2F2&color=F2F2F2&logo=github&logoColor=E8431F&label=%C3%BAltimo%20commit)](https://github.com/NetoVNG/NetoVNG/commits/main)
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NetoVNG&bg_color=0d1117&color=e6edf3&line=E8431F&point=E8431F&area_color=E8431F&area=true&hide_border=true" alt="Gráfico de atividade de NetoVNG">
+<sub>A maior parte do trabalho do Sagaz Lab vive em repositórios privados — o que aparece aqui é a fatia pública.</sub>
 
 </div>
 
