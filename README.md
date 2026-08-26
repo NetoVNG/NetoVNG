@@ -42,7 +42,7 @@ Construo sistemas com IA que resolvem problemas reais — de plataformas SaaS a 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 🟢 **Presença**
 
@@ -51,22 +51,31 @@ SaaS comercial no ar. Landing, 12 templates e funil de captação ativo.
 <sub>`presenca.sagazlab.io`</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-🟡 **Virado na Gota**
+🟢 **Virado na Gota**
 
-Frente social do lab — transformação digital para ONGs invisíveis.
+Frente social do lab — transformação digital para ONGs invisíveis. No ar em PT/EN/ES.
 
-<sub>`em construção · 2026`</sub>
+<sub>`viradonagota.com`</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
+
+🟢 **Mais Pacientes**
+
+Guia digital para clínicas odontológicas. Produto e programa de afiliados no ar.
+
+<sub>`maispacientesodonto.sagazlab.io`</sub>
+
+</td>
+<td width="25%" valign="top">
 
 🟣 **Carcará**
 
 Consultoria acadêmica — redesign em andamento.
 
-<sub>`sprint aberto`</sub>
+<sub>`carcara.sagazlab.io`</sub>
 
 </td>
 </tr>
@@ -78,10 +87,11 @@ Consultoria acadêmica — redesign em andamento.
 |---|---|---|---|
 | [**Presença**](https://presenca.sagazlab.io) | Site + Google + redes + automação de atendimento para PMEs | `HTML/CSS/JS` · `n8n` · `Nginx` | Comercial · no ar |
 | [**Sagaz Lab**](https://sagazlab.io) | Estúdio de presença digital e automação com IA | `HTML/CSS/JS` · `n8n` · `MariaDB` | Ativo |
+| [**Mais Pacientes**](https://maispacientesodonto.sagazlab.io) | Guia digital para clínicas odontológicas — produto e programa de afiliados | `HTML/CSS/JS` · `Hotmart` · `Nginx` | Comercial · no ar |
 | [**sixsigma_saas**](https://github.com/NetoVNG/sixsigma_saas) | Inteligência operacional Lean Six Sigma com IA e ISO 13053 | `Python` · `Next.js` · `FastAPI` | Público |
 | [**Carcará**](https://carcara.sagazlab.io) | Consultoria acadêmica — parceria e redesign | `HTML/CSS/JS` · `n8n` | Redesign |
 | **ACRICA Digital** | Gestão digital para coletivo cultural — pro bono | `n8n` · `MariaDB` · `HTML/CSS/JS` | Voluntariado |
-| [**Virado na Gota**](https://viradonagota.com) | Transformação digital para ONGs invisíveis | a definir | Em construção |
+| [**Virado na Gota**](https://viradonagota.com) | Transformação digital para ONGs invisíveis | `HTML/CSS/JS` · `i18n PT/EN/ES` | No ar |
 
 ## Stack
 
@@ -107,6 +117,12 @@ Consultoria acadêmica — redesign em andamento.
 [![último commit](https://img.shields.io/github/last-commit/NetoVNG/NetoVNG?style=flat-square&labelColor=F2F2F2&color=F2F2F2&logo=github&logoColor=E8431F&label=%C3%BAltimo%20commit)](https://github.com/NetoVNG/NetoVNG/commits/main)
 
 <sub>A maior parte do trabalho do Sagaz Lab vive em repositórios privados — o que aparece aqui é a fatia pública.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NetoVNG/NetoVNG/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NetoVNG/NetoVNG/output/snake.svg">
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições de NetoVNG" src="https://raw.githubusercontent.com/NetoVNG/NetoVNG/output/snake.svg" width="98%">
+</picture>
 
 </div>
 
