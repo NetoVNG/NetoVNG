@@ -22,22 +22,16 @@ Transformo problemas operacionais em sistemas **mensuráveis, automatizados e es
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <img src="assets/animals/carcara-96.png" width="28" alt="Gravura de carcará — símbolo de observação e análise"><br>
 <b>CARCARÁ</b><br>
 Observar · medir · compreender<br><br>
 <sub>Antes de escrever qualquer linha, entender o processo que gera o problema.</sub>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <b>MÉTODO</b><br>
 Diagnosticar · experimentar · melhorar<br><br>
 <sub>DMAIC aplicado a software: causa raiz antes de solução, métrica antes de entrega.</sub>
-</td>
-<td width="33%" valign="top">
-<img src="assets/animals/texugo-96.png" width="28" alt="Gravura de texugo-do-mel — símbolo de execução e persistência"><br>
-<b>TEXUGO-DO-MEL</b><br>
-Construir · testar · persistir<br><br>
-<sub>O problema difícil é o único que vale automatizar. Ele não é abandonado.</sub>
 </td>
 </tr>
 </table>
@@ -169,7 +163,7 @@ ESTRUTURA DE ASSETS
 
 assets/
 ├── hero/            banner.png · banner-light.png     1268×415
-├── animals/         carcara-96.png · texugo-96.png    96×96 (+ -192 @2x, + prancha completa)
+├── animals/         carcara-96.png                     96×96 (+ -192 @2x, + prancha completa)
 ├── sections/        metodo.png                        1600×420 @2x
 ├── projects/        <slug>-card.png                   1200×520 @2x
 ├── icons/           rule.svg                          1200×12
